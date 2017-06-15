@@ -1,5 +1,5 @@
 # pyRouter
-annotation URL routing for tornado. xliaoong
+xliaoong | annotation URL routing for tornado. 
 
 
 项目启动[ how to start ]
